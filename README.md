@@ -19,7 +19,15 @@
 ....
 
 ## Demo
-
+- User test hoặc đăng kí tài khoản mới
+```
+kimquan2000vn
+10122000
+```
+- Trang đăng kí:
+![image](https://user-images.githubusercontent.com/54978467/196160865-77e57e98-fade-4830-a294-2759d2ef762c.png)
+- Trang đăng nhập:
+![image](https://user-images.githubusercontent.com/54978467/196160904-ce28006f-a518-4853-9dc3-a6d59af4fd77.png)
 - Hone Page
 ![image](https://user-images.githubusercontent.com/54978467/196153330-6b6ad0cb-1214-4d78-b08f-8a0db1d16e8c.png)
 - Profile Page
