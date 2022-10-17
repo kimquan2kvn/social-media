@@ -1,8 +1,12 @@
 # Social Media 
 
-## Giới thiệu
-
-Social Media website sử dụng MongoDB, Expressjs, Reactjs và Nodejs
+## Giới thiệu các chức năng chính
+ 
+- Social Media website sử dụng MongoDB, Expressjs, Reactjs và Nodejs
+- Người dùng có thể đăng kí tài khoản, đăng nhập
+- Người dùng có thể thêm thông tin, cập nhật lại thông tin cá nhân của mình
+- Người dùng có thể đăng bài viết, đăng ảnh, thả tim, theo dõi người dùng khác
+- Người dùng có thể nhắn tin realtime với người dùng khác
 
 ## Công nghệ sử dụng
 
@@ -35,12 +39,12 @@ JWTKEY = "bất kì từ nào bạn muốn"
  ```
  4. Vào thư mục client tạo file .env 
  ```REACT_APP_PUBLIC_FOLDER = http://localhost:5000/images/```
- 6. Vào thư mục client để khởi chạy client 
+ 5. Vào thư mục client để khởi chạy client 
  ``` 
  yarn install
  yarn start
  ```
- 7. Vào thư mục server và socket thực hiện các câu lệnh
+ 6. Vào thư mục server và socket thực hiện các câu lệnh
  ```
  npm install
  npm start
