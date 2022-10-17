@@ -4,6 +4,15 @@
 
 Social Media website sử dụng MongoDB, Expressjs, Reactjs và Nodejs
 
+## Công nghệ sử dụng
+
+- Node.js
+- MongoDB
+- Express
+- Multer: để upload ảnh
+- Jsonwebtoken: để xác thực người dùng
+....
+
 ## Demo
 
 - Hone Page
@@ -15,17 +24,10 @@ Social Media website sử dụng MongoDB, Expressjs, Reactjs và Nodejs
 - Modal update profile
 ![image](https://user-images.githubusercontent.com/54978467/196154149-286b3761-e6c8-4192-a2cf-2b60e5972630.png)
 
-
 ## Chạy ứng dụng
 1. Clone project 
-2. Thêm file .env
-
-## Công nghệ sử dụng
-
-- Node.js
-- MongoDB
-- Express
-- Multer: để upload ảnh
-- Jsonwebtoken: để xác thực người dùng
-....
-
+2. Mở project bằng Visual Studio Code
+3. Vào thư mục server tạo file .env gồm:
+ `MONGO_DB =
+ PORT = 5000
+ JWTKEY`
