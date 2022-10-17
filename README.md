@@ -19,11 +19,6 @@
 ....
 
 ## Demo
-- User test hoặc đăng kí tài khoản mới
-```
-kimquan2000vn
-10122000
-```
 - Trang đăng kí:
 ![image](https://user-images.githubusercontent.com/54978467/196160865-77e57e98-fade-4830-a294-2759d2ef762c.png)
 - Trang đăng nhập:
