@@ -28,6 +28,8 @@ Social Media website sử dụng MongoDB, Expressjs, Reactjs và Nodejs
 1. Clone project 
 2. Mở project bằng Visual Studio Code
 3. Vào thư mục server tạo file .env gồm:
- `MONGO_DB =
- PORT = 5000
- JWTKEY`
+```
+MONGO_DB = "link database của bạn"
+PORT = 5000
+JWTKEY = "bất kì từ nào bạn muốn"
+ ```
