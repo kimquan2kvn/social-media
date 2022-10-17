@@ -15,6 +15,7 @@
 - Express
 - Multer: để upload ảnh
 - Jsonwebtoken: để xác thực người dùng
+- Redux: quản lý state
 ....
 
 ## Demo
